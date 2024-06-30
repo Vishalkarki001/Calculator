@@ -1,3 +1,7 @@
+body{
+    background-color:gray;
+    
+}
 .calculator {
     width: 250px;
     margin: 100px auto;
